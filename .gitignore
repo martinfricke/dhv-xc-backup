@@ -1,4 +1,21 @@
+# Maven
+target/
+dependency-reduced-pom.xml
+
+# IntelliJ IDEA
+.idea/
+*.iml
+classpath.txt
+
+# Lokale Dateien
 .session/
 backup/
-target/
 *.log
+*.part
+*.invalid
+session.json
+settings.properties
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
