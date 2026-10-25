@@ -1,0 +1,4 @@
+.session/
+backup/
+target/
+*.log
